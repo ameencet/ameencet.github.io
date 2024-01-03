@@ -17,9 +17,9 @@ title                    : "Ameenudeen"
 title_separator          : "-"
 name                     : &name "Ameenudeen PE"
 description              : &description "A personal blog of Ameenudeen PE"
-url                      : "https://ameenudeen.github.io"
+url                      : "https://ameencet.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-gh_repo                  : "ameenudeen.github.io"
+gh_repo                  : "ameencet.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 160
