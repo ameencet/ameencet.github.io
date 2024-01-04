@@ -30,4 +30,4 @@ Work experience
   *  Dept. of ECE,College of Engineering,Trivandrum
   * Position: Asst. Professor
   
-For more details have a look at my [Resume (2022)](https://soumya-dutta.github.io/files/latest_cv.pdf).
+
