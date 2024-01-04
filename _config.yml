@@ -73,7 +73,7 @@ google_ad_slot           :
 # Site Author
 author:
   name             : "Ameenudeen PE"
-  avatar           : "picture-min.jpg"
+  avatar           : "ameen.jpg"
   bio              : "PhD Student IISC Bangalore"
   location         : "India"
   email            : "ameen.cet@gmail.com"
@@ -82,7 +82,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : #"soumya.dutta.3367"
+  facebook         : "https://www.facebook.com/ameen.cet?mibextid=LQQJ4d"
   foursquare       :
   github           : "ameencet"
   google_plus      :
@@ -95,7 +95,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            : #"ayansengupta17"
   tumblr           :
-  twitter          :
+  twitter          :"@ameencet"
   vine             :
   weibo            :
   xing             :
