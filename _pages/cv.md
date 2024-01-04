@@ -11,14 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.Tech. in Electrical Engineering, **Indian Institute of Engineering Science and Technology Shibpur**, 2015
-* M.Tech. in Electrical Engineering (Control and Computing), **Indian Institute of Technology Bombay**, 2018
+* B.Tech. in Electronics and Communication Engineering, **College of Engineering,Trivandrum**, 2009
+* M.Tech. in Telecommunications, **NIT Calicut**, 2012
 * Ph.D in Electrical Engineering, **Indian Institute of Science Bangalore**, (current)
 
 Work experience
 ======
-* July 2018- Feb 2021
-  * IBM India Pvt. Ltd.
-  * Position: Cognitive Data Scientist
+* June 2012- May 2016
+  * Dept. of ECE,St. Joseph's College of Engineering and Technology Palai.
+  * Position: Asst. Professor
+* June 2016- December 2018
+  * Dept. of ECE,Muthoot Institute of Technology and Science
+  * Position: Asst. Professor
+* July 2019- August 2021
+  * Dept. of ECE,Govt. Engineering College, Idukki
+  * Position:  Asst. Professor
+* August 2021- 
+  *  Dept. of ECE,College of Engineering,Trivandrum
+  * Position: Asst. Professor
   
 For more details have a look at my [Resume (2022)](https://soumya-dutta.github.io/files/latest_cv.pdf).
