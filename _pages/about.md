@@ -5,14 +5,9 @@ excerpt: "About me"
 ---
 {% include base_path %}
 
-I am a PhD student in the Department of Electrical Engineering at the Indian Institute of Science Bangalore. Prior to this, I have worked as a Data Scientist in IBM India Pvt. Ltd after completing my Masters in Control and Computing from Indian Institute of Technology Bombay.
+I am a PhD student at Department of Electrical Engineering, Indian Institute of Science,Bangalore.I work as an Assistant Professor in Department of Electronics and Communication engineering, College of Engineering Trivandrum.
 
-During my stint in IBM, I have worked on some client-facing projects which involved deep learning applications in the domain of object detection and tracking of persons in video feed. I have also worked on NLP projects in my leisure hours.
+I am working with [Dr. Sriram Ganapathy](http://www.leap.ee.iisc.ac.in/sriram/),on the applications of Deep Learning for various speech processing applications. I am associated with the wonderful group of people (and researchers) at [LEAP Lab](http://www.leap.ee.iisc.ac.in).
 
-As a novice PhD student working with [Dr. Sriram Ganapathy](http://www.leap.ee.iisc.ac.in/sriram/), I am presently learning the basics of Speech Processing and hope to contribute to the field by means of Deep Learning. I am associated with the wonderful group of people (and researchers) at [LEAP Lab](http://www.leap.ee.iisc.ac.in).
-
-Academics takes up most of my time. However, I had started learning the piano before the pandemic. I hope to play [this one](https://www.youtube.com/watch?v=7maJOI3QMu0) and [this one](https://www.youtube.com/watch?v=imGaOIm5HOk) someday.
-
-For more of my academic projects check out my [GitHub](https://github.com/Soumya-Dutta/) page.
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=EoA9ODmW2B7LiYuOG60bJC-FXXnWRWYL8IxVXWAC86k&cl=ffffff&w=a"></script>
