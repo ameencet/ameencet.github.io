@@ -14,6 +14,12 @@ Education
 * B.Tech. in Electronics and Communication Engineering, **College of Engineering,Trivandrum**, 2009
 * M.Tech. in Telecommunications, **NIT Calicut**, 2012
 * Ph.D in Electrical Engineering, **Indian Institute of Science Bangalore**, (current)
+  
+Research experience
+======
+* Jan 2019- July 2019
+  * Codes and Signal Design Lab,Dept. of EC,IISc Bangalore
+  * Position: Full Time Research Scholar
 
 Work experience
 ======
